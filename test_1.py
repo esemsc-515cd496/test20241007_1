@@ -1,3 +1,4 @@
 import numpy as np
 
-print(np.sin(np.pi/2))
+x = np.sin(np.pi/2)
+print(x)
